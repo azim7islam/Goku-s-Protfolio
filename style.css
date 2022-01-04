@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .change-color{
     color: #fd79a8;
 }
@@ -35,4 +38,23 @@ h1{
     background-image: url(komi-san/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.exp-itm{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.exp-itm{
+    background-image: url(komi-san/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border-left: 10px black solid;
+    
+}
+
+footer p {
+ text-align: center;
 }
